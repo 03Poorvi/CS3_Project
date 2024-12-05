@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"main.java.monopoly"},{"l":"test.java.monopoly"}];updateSearchResults();
